@@ -1,2 +1,0 @@
-# googlesuggest
-Alfred workflow
