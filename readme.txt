@@ -10,8 +10,8 @@ google suggest by selected text.alfredworkflowのメモ
 3.ワークフローでhotkeyを設定（私は⌘Gとしており、ワークフローのdescriptionを"select text & ⌘G"にしています。気になる方は修正してください）
 
 動き方：
-コアとなるGoogle Suggestが”g {augument}”というキーワード起動です
-Hotkeyの起動によって、"g "（プレフィックス）と選択したテキストをalfredに渡します
+コアとなるGoogle Suggestは”g {augument}”というキーワード起動します
+そこでHotkeyの設定で、"g "（プレフィックス）と選択したテキストをalfredに渡すようにします
 するとGoogle Suggestの機能によって検索候補が現れます
 
 開発メモ：
