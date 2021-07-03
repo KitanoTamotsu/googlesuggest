@@ -15,7 +15,7 @@
 <br>　2.ファイルをダブルクリックしてワークフローに登録
 <br>　3.ワークフローでhotkeyを設定（例えば⌘G）
 #### 使い方:
-　事前にAlfredワークフローのexsampleにあるGoogle Suggestを追加してください
+　事前にAlfredワークフローのexampleにあるGoogle Suggestを追加してください
 <br>　検索したいワードを選択して、設定したHOTKEY（例えば⌘G）を押下
 <br>
 <br>
