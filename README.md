@@ -10,12 +10,12 @@
 #### 使い方:
 　事前にAlfredワークフローのexsampleにあるGoogle Suggestを追加してください
 <br>　検索したいワードを選択して、設定したHOTKEY（例えば⌘G）を押下
-<br>
+
 ### <font size=3>開発メモ</font>
 #### 1.仕組み
 　コアとなるGoogle Suggestが”g {augument}”というキーワード起動です。
-　Hotkeyの起動によって、"g "（プレフィックス）と選択したテキストをalfredに渡します。
-　するとGoogle Suggestの機能によって検索候補が現れます
+<br>　Hotkeyの起動によって、"g "（プレフィックス）と選択したテキストをalfredに渡します。
+<br>　するとGoogle Suggestの機能によって検索候補が現れます
 #### 2.メモ
 　ソースコードがないワークフローです。AlfredワークフローとGithubの練習として公開したものです
 
