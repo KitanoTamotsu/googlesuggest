@@ -1,11 +1,11 @@
 ### <font size=3>Lesson1.初めてのワークフロー</font><br>
 ### <font size=3>開発メモ</font>
 #### 1.仕組み
-　コアとなるGoogle Suggestは”g {augument}”というキーワード起動です。
+　コアとなるGoogle Suggestは”g {augument}”というキーワード起動です
 <br>　このワークフローはHotkeyの起動によって、"g "（プレフィックス）と選択したテキストを
 <br>　alfredに渡します。するとGoogle Suggestの機能によって検索候補が現れます
 #### 2.メモ
-　ソースコードがないワークフローです。
+　ソースコードがないワークフローです
 <br>　AlfredワークフローとGithubの練習として公開しました
 ### <font size=3>取扱説明</font>
 #### 機能:
