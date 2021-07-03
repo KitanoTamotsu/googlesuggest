@@ -1,14 +1,13 @@
-### google suggest by selected text.alfredworkflowのメモ
-
+#### Lesson1.初めてのワークフロー
 [トップページに戻る](https://kitanotamotsu.github.io/)
 
 
-##### 機能：
+#### 機能：
 
   選択した文字列でGoogle Suggestワークフローを起動します
   
 
-##### インストール：
+#### インストール：
 
   1.[alfredworkflow](https://github.com/KitanoTamotsu/googlesuggest/files/6721029/google.suggest.by.selected.text.alfredworkflow.zip)をダウンロード
   
@@ -18,7 +17,7 @@
 
 
 
-##### 使い方：
+#### 使い方：
 
   事前にAlfredワークフローのexsampleにあるGoogle Suggestを追加してください
 
@@ -26,7 +25,7 @@
 
 
 
-##### 開発メモ：
+#### 開発メモ：
 
 1.仕組み
 
