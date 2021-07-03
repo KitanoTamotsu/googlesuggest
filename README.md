@@ -1,4 +1,3 @@
-# Lesson1.初めてのワークフロー
 ## 開発メモ
 ### 1.仕組み
 　コアとなるGoogle Suggestは”g {augument}”というキーワード起動です
