@@ -1,5 +1,4 @@
 ### <font size=3>Lesson1.初めてのワークフロー</font><br>
-[トップページに戻る](https://kitanotamotsu.github.io/)
 ### <font size=3>開発メモ</font>
 #### 1.仕組み
 　コアとなるGoogle Suggestが”g {augument}”というキーワード起動です。
@@ -18,6 +17,9 @@
 #### 使い方:
 　事前にAlfredワークフローのexsampleにあるGoogle Suggestを追加してください
 <br>　検索したいワードを選択して、設定したHOTKEY（例えば⌘G）を押下
+<br>
+<br>
+[トップページに戻る](https://kitanotamotsu.github.io/)
 
 
 
