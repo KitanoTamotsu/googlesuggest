@@ -6,9 +6,9 @@
 <br>   選択した文字列でGoogle Suggestワークフローを起動します
   
 <br><br>インストール:
-<br>   1.[alfredworkflow](https://github.com/KitanoTamotsu/googlesuggest/files/6721029/google.suggest.by.selected.text.alfredworkflow.zip)をダウンロード 
-<br>   2.ファイルをダブルクリックしてワークフローに登録
-<br>   3.ワークフローでhotkeyを設定（例えば⌘G）
+<br>　1.[alfredworkflow](https://github.com/KitanoTamotsu/googlesuggest/files/6721029/google.suggest.by.selected.text.alfredworkflow.zip)をダウンロード 
+<br>　2.ファイルをダブルクリックしてワークフローに登録
+<br>　3.ワークフローでhotkeyを設定（例えば⌘G）
   
 <br><br>使い方:
 <br>　事前にAlfredワークフローのexsampleにあるGoogle Suggestを追加してください
