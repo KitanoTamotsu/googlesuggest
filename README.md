@@ -1,6 +1,8 @@
+
 ## 　　　Lesson1.　初めてのワークフロー
 
-<img width="130" alt="スクリーンショット 2021-07-24 10 03 01" src="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png">
+<img width="130" alt="スクリーンショット 2021-07-24 10 03 01" src="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png">　
+<img width="130" alt="スクリーンショット 2021-07-24 10 04 46" src="https://user-images.githubusercontent.com/40127279/126853290-1d5ecd14-7565-404c-bc46-f0e6375bfd26.png">
 
 #### 開発メモ
 ### 1.仕組み
