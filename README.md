@@ -11,7 +11,7 @@
 ### 2.メモ
 　ソースコードがないワークフローです
 <br>　AlfredワークフローとGithubの練習として公開しました
-<br>　ホットキー設定
+<br>　ホットキー設定がすべてなので、よくみてくださいね
 <br>　<img width="600" alt="ホットキー設定" src="https://user-images.githubusercontent.com/40127279/126853290-1d5ecd14-7565-404c-bc46-f0e6375bfd26.png">
 
 
