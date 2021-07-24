@@ -3,7 +3,7 @@
 
 #### 開発メモ
 ワークフロー
-<br><a href="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png"><img width="600" src="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png"></a>　
+<br><img width="600" src="https://user-images.githubusercontent.com/40127279/126853221-7f6cee62-c8b2-487e-b77f-14cd7857ac9e.png">
 ### 1.仕組み
 　コアとなるGoogle Suggestは”g {augument}”というキーワード起動です
 <br>　このワークフローはHotkeyの起動によって、"g "（プレフィックス）と選択したテキストを
